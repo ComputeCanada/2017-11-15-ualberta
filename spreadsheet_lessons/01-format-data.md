@@ -48,9 +48,13 @@ they'd have a problem. One problem here is that three dimensions (height, width,
 The rule of thumb, when setting up a datasheet, is columns = variables,
 rows = observations, and cells = data or values.
 
+One strong reason for this given our need to be able to export this data to other programs is that _most_ programs that work with data expect each line to be an observation with a consistent format that will allow it to access the recorded variables by the order they are in.
+
 Therefore, instead of the consolidated example above, we should have the separated example below:
 
 ![clean example](clean1.png)
+
+This will make it easy for a computer to do something find all objects with a height greater than 1000 because all the heights are separate from the other dimensions within each row.
 
 ### Exercise ###
 
