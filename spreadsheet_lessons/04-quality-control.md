@@ -1,9 +1,3 @@
----
-layout: lesson
-title: Basic quality control and data manipulation in spreadsheets
-root: .
----
-
 ## Quality Control
 
 When you have a well-structured data table, you can use several simple techniques within your spreadsheet to ensure the data you’ve entered is free of errors.
@@ -28,4 +22,4 @@ A good way to check if you’ve got data of the wrong type in a column is by che
 ## Pivot tables ##
 Pivot tables are a very powerful tool in Excel. They’re useful to check for issues with data integrity because they provide a quick, visual way to spot things that are amiss, including with categorical variables. They are also great for reshaping data and obtaining summary statistics quickly in a drag and drop interface.
 
-Previous:[Dates as data.](03-dates-as-data.html) Next: [Exporting data from spreadsheets.](05-exporting-data.html)
+Previous:[Dates as data.](03-dates-as-data.md) Next: [Exporting data from spreadsheets.](05-exporting-data.md)

@@ -1,12 +1,6 @@
----
-layout: lesson
-title: Exporting data from spreadsheets
-root: .
----
+## Exporting Data ##
 
-## Exporting Data
-
-###Spreadsheet data formats
+### Spreadsheet data formats ###
 
 Excel files default to the `*.xls` or `*.xlsx` file formats (depending on the Excel version you're using.) While this works great if you're opening and re-opening the files in Excel, it might cause problems if you're trying to open the files in another software program. When Excel saves a file to these formats, it includes special formatting that may not be able to be interpreted by another program. Therefore, when saving your data, especially if you're going to use it in another program, it's best to EXPORT the data into another file format.
 
@@ -22,7 +16,7 @@ To save a file you have opened in Excel into the `*.csv` format:
 
 ![Saving an Excel file to CSV](excel-to-csv.png)
 
-## A Note on Cross-platform operability##
+## A Note on Cross-platform Operability ##
 
 By default, most coding and statistical environments expect UNIX-style line endings (`\n`) as representing line breaks. However, Windows uses an alternate line ending signifier (`\r\n`) by default for legacy compatibility with Teletype-based systems. As such, when exporting to CSV using Excel, your data will look like this:
 
@@ -57,4 +51,4 @@ and then create a file `.gitattributes` that contains the line:
 
 3. Use [dos2unix](http://dos2unix.sourceforge.net/) (available on OSX, *nix, and Cygwin) on local files to standardize line endings.
 
-Previous: [Basic quality control and data manipulation in spreadsheets.](04-quality-control.html) Next: [Caveats of popular data and file formats.](06-data-formats-caveats.html)
+Previous: [Basic quality control and data manipulation in spreadsheets.](04-quality-control.md) Next: [Caveats of popular data and file formats.](06-data-formats-caveats.md)

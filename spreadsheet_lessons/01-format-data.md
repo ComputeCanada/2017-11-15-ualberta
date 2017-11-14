@@ -1,10 +1,7 @@
----
-layout: lesson
-title: Formatting data tables in Spreadsheets
-root: .
----
+# Formatting Data #
 
-## Learning Objectives
+## Learning Objectives ##
+
 * Learning best practices for recording and formatting data in spreadsheets
 * Understanding the correspondence between columns and rows in spreadsheets
 and data structure
@@ -23,8 +20,7 @@ way in spreadsheets, but it limits your ability to work with the data
 in other programs or have the you-of-6-months-from-now or your collaborator
 work with the data.
 
-
-###Structuring data in spreadsheets
+## Structuring data in spreadsheets ##
 
 There are two rules you should keep in mind when entering your data
 into any spreadsheet:
@@ -47,7 +43,7 @@ If they were to store the data about the object's size like this
 
 they'd have a problem. In this case, three dimensions (height, width, and length) are all in the same column). If we wanted to search for an object with a certain height, we would be unable to. Instead, each measurement or dimentsion should be in its own column.
 
-###Columns for variables and rows for observations
+## Columns for variables and rows for observations ##
 
 The rule of thumb, when setting up a datasheet, is columns = variables,
 rows = observations, and cells = data or values.
@@ -56,7 +52,7 @@ Therefore, instead of the messy example above, we should have the clean example 
 
 ![clean example](clean1.png)
 
-### Exercise
+### Exercise ###
 
 We're going to take a messy version of the Syndney museum collection data
 and clean it up.
@@ -74,4 +70,4 @@ that a computer will be able to understand it.
 
 After you go through this exercise, we'll discuss as a group what you think was wrong with this data organization and how you fixed it.  
 
-Previous: [Introduction](00-intro.html)  Next: [Common formatting mistakes](02-common-mistakes.html)
+Previous: [Introduction](00-intro.md)  Next: [Common formatting mistakes](02-common-mistakes.md)

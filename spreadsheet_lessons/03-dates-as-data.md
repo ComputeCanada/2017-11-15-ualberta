@@ -1,10 +1,6 @@
----
-layout: lesson
-title: Dates as data
-root: .
----
+# Dates as Data #
 
-## Learning Objectives
+## Learning Objectives ##
 
 * Understanding how dates are handled and formatted in spreadsheets.
 * Manipulating dates stored in spreadhseets.
@@ -30,7 +26,7 @@ You can see that even though you wanted the year to be 2006, Excel automatically
 
 Excel also entertains a second date system, the 1904 date system, as the default in Excel for Macintosh. This system will assign a different serial number than the [1900 date system](https://support.microsoft.com/kb/180162). Because of this, [dates must be checked for accuracy when exporting data from Excel](http://datapub.cdlib.org/2014/04/10/abandon-all-hope-ye-who-enter-dates-in-excel/) (look for dates that are ~4 years off).
 
-##Data formats in spreadsheets
+## Data formats in spreadsheets ##
 
 Spreadsheet programs have numerous “useful features” which allow them to “handle” dates in a variety of ways.
 
@@ -38,7 +34,7 @@ Spreadsheet programs have numerous “useful features” which allow them to “
 
 But these "features" often allow ambiguity to creep into your data. Ideally, data should be as unambiguous as possible.
 
-###Dates stored as integers
+### Dates stored as integers ###
 
 The first thing you need to know is that Excel **stores dates as numbers** (e.g., see the last column in the above figure). Essentially, it counts the days from a default of December 31, 1899, and thus stores July 2, 2014 as the serial number 41822.
 
@@ -60,7 +56,7 @@ What will happen if you save the file in Excel (in `csv` format) and then open t
 **Note**  
 You will notice that when exporting into a text-based format (such as CSV), Excel will export its internal date integer instead of a useful value (that is, the dates will be represented as integer numbers). This can potentially lead to problems, if you use other software to manipulate the file.
 
-###Advantages of Day-of-Year Formatting
+### Advantages of Day-of-Year Formatting ###
 
 #### Challenge: understanding the DOY formatting ####
 
@@ -88,4 +84,4 @@ You can easily convert your dates into the DOY format using a handy formula in E
 
 ![Kill that ambiguity before it bites you!](7_excel_dates_3.jpg)
 
-Previous: [Common formatting mistakes by spreadsheet users.](02-common-mistakes.html) Next: [Basic quality control and data manipulation in spreadsheets.](04-quality-control.html)
+Previous: [Common formatting mistakes by spreadsheet users.](02-common-mistakes.md) Next: [Basic quality control and data manipulation in spreadsheets.](04-quality-control.md)
