@@ -11,7 +11,7 @@
 - [Field name problems](#field_name)
 - [Special characters in data](#special)
 
-<a name=tables></a>
+<a name="tables"></a>
 ## Multiple tables
 
 A common strategy when collecting or recording your data is to create multiple data tables within
@@ -23,7 +23,7 @@ For example:
 
 Remember, if we consider each row to be ONE observation, the computer will assume that ALL data contained on row 5 is from ONE observation. But in this case, the data on row 5, contained within four different tables, is from MULTIPLE observations.
 
-<a name=tabs></a>
+<a name="tabs"></a>
 ## Multiple tabs
 
 What about using multiple tabs to enter or record data? Say, one tab for each set of daily observations?
@@ -44,7 +44,7 @@ ANOTHER TIP: Do not add spaces to your header titles or names. Instead use capit
 
 - Demonstration of freezing column headers.
 
-<a name=zeros></a>
+<a name="zeros"></a>
 ## Not filling in zeroes
 
 Spreadsheets interpret a ZERO value and a BLANK cell completely differently. Before using a ZERO value in a cell for an observation, think about the purpose of that ZERO. 
