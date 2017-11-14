@@ -1,9 +1,3 @@
----
-layout: lesson
-title: Common spreadsheet errors
-root: .
----
-
 ## Common Spreadsheet Errors
 
 - [Multiple tables](#tables)
@@ -136,4 +130,4 @@ first_observation | Observation_01 | 1st Obs.
 
 **Solution**: While this may be a common process when using spreadsheets to record notes, it can cause problems down the road. While it is possible, for example, to include newlines in a cell, that newline character may be misunderstood by statistical software at a later stage. Items like newlines, indentations, em-dashes, quotation marks, etc., should not be used in a spreadsheet when recording notes. If these items are absolutely needed, consider using the cell to reference notes written in a Word document instead. 
 
-Previous: [Formatting data tables in spreadsheets.](01-format-data.html) Next: [Dates as data.](03-dates-as-data.html)
+Previous: [Formatting data tables in spreadsheets.](01-format-data.md) Next: [Dates as data.](03-dates-as-data.md)
