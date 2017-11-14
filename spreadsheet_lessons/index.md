@@ -1,9 +1,9 @@
-# Data Organization in Spreadsheets #
+# Data Organization in Spreadsheets
 
 Data Carpentry's aim is to teach researchers basic concepts, skills,
 and tools for working with data so that they can get more done in less
 time, and with less pain. This lesson was designed for those interested 
-in working with data in spreadsheets. 
+in working with data in environments where they expect to do at least some analysis or data presentation with other tools such as Python or R.  The emphasis is thus on making the data reusable via good practices of data entry.
 
 ## Lessons ##
 
@@ -26,4 +26,4 @@ their own computers to follow along with each lesson.
 
 ### Thanks ###
 
-These lessons were updated based on the Data Carpentry spreadsheet lessons used by HASTAC in 2015. Contributors included: Christie Bahlai, Aleksandra Pawlik, Tracy Teal, Jennifer Bryan, Alexander Duryee, Jeffrey Hollister, Daisie Huang, Owen Jones, Clare Sloggett, Harriet Dashnow and Ben Marwick
+These lessons were updated based on the Data Carpentry spreadsheet lessons used by Alicia Cappello in July 2017 which was an update from HASTAC in 2015. Contributors included: Christie Bahlai, Aleksandra Pawlik, Tracy Teal, Jennifer Bryan, Alexander Duryee, Jeffrey Hollister, Daisie Huang, Owen Jones, Clare Sloggett, Harriet Dashnow and Ben Marwick.
