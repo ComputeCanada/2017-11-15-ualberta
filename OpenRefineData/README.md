@@ -8,6 +8,6 @@ You can find the lesson material we will be (partially) following [here](http://
 
 Click on the following URL and download the file to your computer.
 
-[Shared Google Drive File](https://drive.google.com/a/ualberta.ca/file/d/0BwIv7g6vTLRmXzkycW9NZmlkeDA/view?usp=sharing)
+[Shared Google Drive File](phm_collection2_short.tsv)
 
 It will display as if it is in Google Sheets, but when you download it, it will save as a text tab-separated file (.tsv).
