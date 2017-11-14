@@ -1,12 +1,6 @@
----
-layout: lesson
-title: Using spreadsheet programs
-root: .
----
+## Introduction
 
 Spreadsheet programs are very useful graphical interfaces for designing data tables and handling basic data quality control functions. 
-
----
 
 ### Spreadsheet programs
 
@@ -16,8 +10,6 @@ Spreadsheet programs are very useful graphical interfaces for designing data tab
 
 Commands may differ a bit between programs, but general ideas
 for thinking about spreadsheets are the same.
-
----
 
 Spreadsheets encompass a lot of the things we need
 to be able to do as researchers. We can use them for:
@@ -29,8 +21,6 @@ to be able to do as researchers. We can use them for:
 - Plotting
 - and more.
 
----
-
 How many people have used spreadsheets in their research?
 
 Spreadsheets can be very useful, but they can also be
@@ -39,8 +29,6 @@ frustrating and can sometimes give us incorrect results.
 What are some things that you've accidentally done in
 a spreadsheet, or have been frustrated that you can't do
 easily?
-
----
 
 ### Spreadsheet outline
 
@@ -51,8 +39,6 @@ In this lesson we’re going to talk about how to use spreadsheets to organize a
 - Dates as data
 - Basic quality control and data manipulation in spreadsheets
 - Exporting data from spreadsheets
-
----
 
 The **cardinal rules** of using spreadsheet programs for organizing data:
 
@@ -70,11 +56,11 @@ primary spreadsheet program.
 
 In this lesson, we’re going to talk about:
 
-1. [Formatting data tables in spreadsheets.](01-format-data.html)
-2. [Common formatting mistakes by spreadsheet users.](02-common-mistakes.html)
-3. [Dates as data.](03-dates-as-data.html)
-4. [Basic quality control and data manipulation in spreadsheets.](04-quality-control.html)
-5. [Exporting data from spreadsheets.](05-exporting-data.html)
-6. [Data export formats caveats](06-data-formats-caveats.html)
+1. [Formatting data tables in spreadsheets.](01-format-data.md)
+2. [Common formatting mistakes by spreadsheet users.](02-common-mistakes.md)
+3. [Dates as data.](03-dates-as-data.md)
+4. [Basic quality control and data manipulation in spreadsheets.](04-quality-control.md)
+5. [Exporting data from spreadsheets.](05-exporting-data.md)
+6. [Data export formats caveats](06-data-formats-caveats.md)
 
-Next: [Formatting data tables in spreadsheets.](01-format-data.html)
+Next: [Formatting data tables in spreadsheets.](01-format-data.md)
